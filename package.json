@@ -1,19 +1,19 @@
 {
-  "name": "basicprompt",
-  "description": "A basic node.js prompt module",
-  "main": "./lib/prompt",
+  "name": "interrogator",
+  "description": "Put the screws to your users. (Or just ask them nicely. I don't care, it's your software.)",
+  "main": "./lib/interrogator",
   "author": {
     "name": "Corey Cossentino"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dennovin/basicprompt.git"
+    "url": "https://github.com/Dennovin/interrogator.git"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/caolan/async/raw/master/LICENSE"
+      "url": "https://raw.githubusercontent.com/Dennovin/interrogator/master/LICENSE"
     }
   ],
   "dependencies": {
