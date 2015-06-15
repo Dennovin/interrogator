@@ -17,8 +17,8 @@
     }
   ],
   "dependencies": {
-    "sprintf": "latest",
-    "validator": "latest",
+    "sprintf": "0.1.5",
+    "validator": "3.40.0",
     "heap": "latest",
     "read": "latest"
   }
